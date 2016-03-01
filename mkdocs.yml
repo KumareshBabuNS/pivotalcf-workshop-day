@@ -1,0 +1,9 @@
+site_name: CFWorkshop
+repo_url: https://github.com/cf-platform-eng/pivotalcf-industry-day/
+google_analytics: ['UA-69554101-1', 'detroitcf-workshop.cfapps.io']
+remote_branch: master
+theme: flatly
+pages:
+  - Intro: 'index.md'
+  - Prepare: 'prereqs.md'
+  - Details: 'details.md'

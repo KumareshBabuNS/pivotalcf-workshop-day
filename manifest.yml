@@ -1,0 +1,5 @@
+---
+applications:
+- name: detroitcfworkshop
+  memory: 64M
+  path: site
